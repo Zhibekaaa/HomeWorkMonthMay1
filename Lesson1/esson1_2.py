@@ -1,0 +1,5 @@
+name = input()
+surname = input()
+age = input()
+print(age)
+print(age, name, surname)
